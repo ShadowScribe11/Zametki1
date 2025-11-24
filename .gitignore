@@ -1,0 +1,14 @@
+# venv
+.venv
+venv
+.env
+
+# python
+__pycash__
+*.pyc
+
+# Log
+*.Log
+
+# database
+notes.json
