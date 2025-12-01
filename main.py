@@ -17,7 +17,7 @@ def main():
     controller = Controller()
     view = View()
 
-    action = view.start_menu
+    action = view.start_menu()
     controller.run(action)
 
 
